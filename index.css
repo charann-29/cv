@@ -1,8 +1,21 @@
-h1 {
-    color: rgb(64, 64, 64);
-    font-size: 40px;
-  }
 body{
-    background-color: rgba(237, 234, 234, 0.842);
-    border: 20mm;
+  background-color: #DAEAF1;
 }
+h1{
+  color:#243A73;
+}
+
+h3{
+  color:#243A73;
+}
+
+hr{
+   background-color: #DAEAF1;
+   border-style: none;
+   border-top-style: dotted;
+   border-color: gray;
+   border-width: 5px;
+   width: 3%;
+}
+
+
